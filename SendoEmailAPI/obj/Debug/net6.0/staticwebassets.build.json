@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2z2XbrL1H+UoeUDzQrG1FfUVEN5POVdhEcMGt/4vAa0=",
+  "Source": "SendoEmailAPI",
+  "BasePath": "_content/SendoEmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
